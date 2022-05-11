@@ -72,7 +72,7 @@ class CompanyModel {
     CompanyModel(
       title: "Serel",
       description:
-          "Atuei como Desenvolvedor Backend no produto principal voltado para fabricação e estampagem de placas automotivas padrão mercosul.",
+          "Atuava na criação e manutenção de sistemas Web para mais de 10 fundações de previdência complementar e fundos de investimento. Entre elas OABPrevGo, Anabbprev e Fipecq.",
       appPhotos: AppConstants.serel,
       techUsed: [
         TechnologyConstants.cSharp,
