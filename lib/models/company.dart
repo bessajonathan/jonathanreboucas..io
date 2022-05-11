@@ -34,7 +34,6 @@ class CompanyModel {
           "Atuo na criação e manutenção de sistemas de prospecção, qualificações e feedback",
       appPhotos: AppConstants.qualifiquei,
       techUsed: [
-        TechnologyConstants.cSharp,
         TechnologyConstants.netCore,
         TechnologyConstants.angular,
         TechnologyConstants.ionic,

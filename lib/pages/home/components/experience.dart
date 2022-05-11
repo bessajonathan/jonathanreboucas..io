@@ -1,5 +1,3 @@
-import 'dart:ui';
-
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -72,8 +70,8 @@ class ExperienceSection extends StatelessWidget {
                       child: Image.asset(
                         companyModel.appPhotos,
                         width: constraints.maxWidth > 720.0 ? null : 350.0,
-                        height: 250,
                         fit: BoxFit.cover,
+                        height:300,
                       ),
                     ),
 

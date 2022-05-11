@@ -77,10 +77,6 @@ class _HomeState extends ConsumerState<Home>
                 ExperienceSection(
                   companies: CompanyModel.companies,
                 ),
-                // Padding(
-                //   padding: const EdgeInsets.symmetric(vertical: 28.0),
-                //   child: PortfolioStats(),
-                // ),
                 const SizedBox(
                   height: 50.0,
                 ),

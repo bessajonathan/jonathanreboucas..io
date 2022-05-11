@@ -33,7 +33,7 @@ class AppConstants {
 
   static const _techImages = _images + "technology/";
   static const flutterImage = _techImages + "flutter.png";
-  static const netCoreImage = _techImages + ".net.png";
+  static const netCoreImage = _techImages + "netCore.png";
   static const angular = _techImages + "angular.png";
   static const dart = _techImages + "dart.png";
   static const firebaseImage = _techImages + "firebase.png";

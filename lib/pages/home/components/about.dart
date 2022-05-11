@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:flutter_svg/svg.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:my_website/models/technology.dart';
 import 'package:my_website/provider/theme.dart';
@@ -44,7 +43,7 @@ class _AboutSectionState extends State<AboutSection> {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       const SizedBox(
-                        height: 15.0,
+                        height: 150.0,
                       ),
                       Text(
                         "Jonathan Rebouças",

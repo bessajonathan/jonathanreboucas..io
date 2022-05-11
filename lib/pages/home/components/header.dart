@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:my_website/models/header_item.dart';
 import 'package:my_website/provider/home.dart';
@@ -66,12 +67,12 @@ class HeaderRow extends StatelessWidget {
         NameOnTap(
           title: "Início",
           onTap: () {},
-          iconData: Icons.info,
+          iconData: FontAwesomeIcons.home,
         ),
         NameOnTap(
           title: "Experiências",
           onTap: () {},
-          iconData: Icons.school,
+          iconData: FontAwesomeIcons.clock,
         ),
         NameOnTap(
           title: "Contato",
