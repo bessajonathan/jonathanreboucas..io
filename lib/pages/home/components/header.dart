@@ -79,6 +79,13 @@ class HeaderRow extends StatelessWidget {
           onTap: () {},
           iconData: Icons.contact_mail,
         ),
+        NameOnTap(
+          title: "Tema",
+          onTap: () {
+          },
+          iconData: Icons.light_mode_outlined,
+          isDarkTheme: true,
+        ),
       ];
 
   @override

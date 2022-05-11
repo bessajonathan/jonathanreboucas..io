@@ -134,10 +134,6 @@ class ExperienceSection extends StatelessWidget {
                         ],
                       ),
                     )
-                    // Expanded(
-                    //   flex: constraints.maxWidth > 720.0 ? 1 : 0,
-                    //   child: ,
-                    // )
                   ],
                 ),
               );
