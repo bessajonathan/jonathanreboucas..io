@@ -71,7 +71,7 @@ class CompanyModel {
     CompanyModel(
       title: "Serel",
       description:
-          "Atuava na criação e manutenção de sistemas Web para mais de 10 fundações de previdência complementar e fundos de investimento. Entre elas OABPrevGo, Anabbprev e Fipecq.",
+          "Atuava na criação e manutenção de sistemas Web para mais de 10 fundações de previdência complementar. Entre elas OABPrevGo, Anabbprev e Fipecq.",
       appPhotos: AppConstants.serel,
       techUsed: [
         TechnologyConstants.cSharp,
