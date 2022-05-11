@@ -4,7 +4,6 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_web_plugins/flutter_web_plugins.dart';
 import 'package:my_website/provider/theme.dart';
 import 'package:my_website/routes/routes.dart';
-import 'package:my_website/utils/custom_scroll.dart';
 
 void configureApp() {
   setUrlStrategy(PathUrlStrategy());
