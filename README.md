@@ -1,4 +1,4 @@
-# GitHub Pages + Flutter Web - williankirsch.github.io
+# GitHub Pages + Flutter Web
 
 ℹ️ [Como publicar o seu site feito em Flutter no GitHub Pages](https://medium.com/@gracyele?p=5379506dd17a)
 
