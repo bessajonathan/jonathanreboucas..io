@@ -15,7 +15,7 @@ class AppConstants {
   static const linkedInUrl =
       "https://www.linkedin.com/in/jonathan-rebou%C3%A7as/";
   static const githubUrl = "https://github.com/bessajonathan";
-  static const whatsapp = "https://wa.me/+5506198301377";
+  static const whatsapp = "https://wa.me/+5506198372761";
   static const emailUrl = "mailto:jonathan.reboucas94@gmail.com";
 
   static const _assets = "assets/";
